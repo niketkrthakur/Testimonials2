@@ -6,7 +6,7 @@ body {
   font-family: 'Inter', sans-serif;
   margin: 0;
   padding: 0;
-  background: linear-gradient(to right, #0f172a 30%, #1e293b 70%);
+  background: linear-gradient(to right, #005A9C 75%, #FFFFFF);
   color: #fff;
 }
 
@@ -62,7 +62,8 @@ body {
 
 .cards {
   position: relative;
-  min-height: 250px;
+  min-height: 200px;
+  margin-bottom: 0px;
 }
 
 .card {
